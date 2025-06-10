@@ -152,6 +152,16 @@ header {
     gap: 20px; /* optional: space between items */
 }
 
+.shop-section a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.shop-section a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
 .shop-container {
     width: 300px;
     height: 300px;
@@ -168,6 +178,7 @@ header {
 .shop-container img {
     width: 100%;
     height: 75%;
+    padding: 30px 40px;
     border-top-left-radius: 8%;
     border-top-right-radius: 8%;
 }
