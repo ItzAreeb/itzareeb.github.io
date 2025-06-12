@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Areeb's Portfolio - Home</title>
     <link rel="stylesheet" href="style.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
 <header>
@@ -19,8 +19,77 @@
 </header>
 
 <main class="main-content">
+    <section class="hero-section">
+        <div class="hero-content">
+            <h1>Hi, I'm <span class="highlight">Areeb</span></h1>
+            <h2>Full Stack Developer</h2>
+            <p>I build innovative digital solutions with clean, efficient code and modern technologies.</p>
+            <div class="hero-buttons">
+                <a href="project-page.html" class="btn-primary">View My Work</a>
+                <a href="about-page.html" class="btn-secondary">About Me</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <img src="images/portfolio-profile-picture.png" alt="Areeb's Profile Picture">
+        </div>
+    </section>
 
+    <section class="skills-section">
+        <h2 class="section-title">My Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-card">
+                <i class="fas fa-mobile-alt"></i>
+                <h3>Mobile Development</h3>
+                <p>Building responsive Android applications with modern frameworks.</p>
+            </div>
+            <div class="skill-card">
+                <i class="fas fa-code"></i>
+                <h3>Web Development</h3>
+                <p>Creating dynamic websites with HTML, CSS, JavaScript and more.</p>
+            </div>
+            <div class="skill-card">
+                <i class="fas fa-robot"></i>
+                <h3>Discord Bots</h3>
+                <p>Developing custom Discord bots with advanced functionality.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="featured-project">
+        <h2 class="section-title">Featured Project</h2>
+        <div class="project-card">
+            <div class="project-image">
+                <img src="images/password-manager-icon.webp" alt="Password Manager Project">
+            </div>
+            <div class="project-details">
+                <h3>Password Manager</h3>
+                <p>A secure Android application for storing and managing your passwords with encryption.</p>
+                <div class="project-tech">
+                    <span>Android</span>
+                    <span>Java</span>
+                    <span>Encryption</span>
+                </div>
+                <a href="https://github.com/ItzAreeb/Password-Manager-Android-App" target="_blank" class="btn-primary">
+                    View Project <i class="fas fa-external-link-alt"></i>
+                </a>
+            </div>
+        </div>
+    </section>
 </main>
-<script src="home-script.js"></script>
+
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="project-page.html">Projects</a>
+            <a href="about-page.html">About Me</a>
+        </div>
+        <div class="social-links">
+            <a href="https://github.com/ItzAreeb" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/areeb-shahid-4599b2176/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        </div>
+    </div>
+</footer>
+
 </body>
 </html>
