@@ -663,6 +663,17 @@ header {
     line-height: 1.6;
 }
 
+.timeline-points {
+    margin-top: 10px;
+    padding-left: 20px; /* indentation for bullets */
+    color: #bdc3c7;
+    line-height: 1.6;
+}
+
+.timeline-points li {
+    margin-bottom: 5px; /* space between points */
+}
+
 .stat-card:hover,
 .skill-category:hover,
 .timeline-content:hover {
