@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67fa936e-b0a0-4277-a6a4-a45bc9c3c70c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/itzareeb.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/itzareeb.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="67fa936e-b0a0-4277-a6a4-a45bc9c3c70c" name="Changes" comment="HalalSense and Password Manager apk links updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,31 +14,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="cachedIndexableFilesCount" value="21" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ItzAreeb"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ItzAreeb&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ItzAreeb/itzareeb.github.io.git",
-    "accountId": "5d3f6c33-ad70-430d-aa05-cc5e32928f88"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ItzAreeb/itzareeb.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;5d3f6c33-ad70-430d-aa05-cc5e32928f88&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3DBIzl0KY74qMoQUHVSrZWmz6or" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,9 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.project-page.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -73,9 +71,10 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1777939212806" />
+    <option name="spentUsd" value="0.00479825" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="9" />
+    <option name="suspendCountdown" value="8" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -91,11 +90,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777749302587</updated>
-      <workItem from="1777749305368" duration="3220000" />
+      <workItem from="1777749305368" duration="3552000" />
+      <workItem from="1777764721264" duration="755000" />
+      <workItem from="1778455150418" duration="379000" />
+      <workItem from="1778543330481" duration="16000" />
+      <workItem from="1779120208574" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="Website updated with current information and visual refresh given">
+      <option name="closed" value="true" />
+      <created>1777754322018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777754322018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="link to HalalSense APK updated">
+      <option name="closed" value="true" />
+      <created>1777766302904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777766302904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HalalSense and Password Manager apk links updated">
+      <option name="closed" value="true" />
+      <created>1778455519837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778455519837</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Website updated with current information and visual refresh given" />
+    <MESSAGE value="link to HalalSense APK updated" />
+    <MESSAGE value="HalalSense and Password Manager apk links updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="HalalSense and Password Manager apk links updated" />
   </component>
 </project>
